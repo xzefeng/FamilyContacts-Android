@@ -9,7 +9,6 @@
     android:fitsSystemWindows="false"
     tools:context="com.noandroid.familycontacts.ContactDetailsActivity"
     >
-    ​
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/materialup.appbar"

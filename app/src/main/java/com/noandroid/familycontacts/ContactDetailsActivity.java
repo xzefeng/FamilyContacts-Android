@@ -101,6 +101,7 @@ public class ContactDetailsActivity extends AppCompatActivity
 
         setContentView(R.layout.activity_cda);
 
+
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         ViewPager viewPager  = (ViewPager) findViewById(R.id.viewpager);
         AppBarLayout appbarLayout = (AppBarLayout) findViewById(R.id.materialup_appbar);
@@ -179,6 +180,8 @@ public class ContactDetailsActivity extends AppCompatActivity
                 onBackPressed();
             }
         });
+//        setSupportActionBar(toolbar);
+//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
 
 

@@ -48,9 +48,7 @@
     </style>
 
     <style name="ToolBarWithNavigationBack">
-        <item name="navigationIcon">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
-
+          <item name="navigationIcon">@drawable/navi_back_icon</item>-
     </style>
-
 
 </resources>
